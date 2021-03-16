@@ -1,0 +1,655 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.69147,
+                    10.7723388
+                ]
+            },
+            "properties": {
+                "name": "X Beer Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.694916,
+                    10.764594
+                ]
+            },
+            "properties": {
+                "name": "Thóc Grill & Craft Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6975249,
+                    10.7895812
+                ]
+            },
+            "properties": {
+                "name": "2F Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6907361,
+                    10.7655518
+                ]
+            },
+            "properties": {
+                "name": "Sancho's Craft Beer & Mexican Kitchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6835993,
+                    10.7544207
+                ]
+            },
+            "properties": {
+                "name": "LEXA - BEER HOUSE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6847492,
+                    10.773107
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Beer Tô"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.690327,
+                    10.765316
+                ]
+            },
+            "properties": {
+                "name": "The BEM Saigon - Craft Beer & Food (Bui Vien)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6903541,
+                    10.7767591
+                ]
+            },
+            "properties": {
+                "name": "Mr Beer võ văn tần (Quận 3)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7040753,
+                    10.7800086
+                ]
+            },
+            "properties": {
+                "name": "Pasteur Street Brewing Co. - Le Thanh Ton Taproom & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6952306,
+                    10.7607684
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Bia Đức Bit Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6950439,
+                    10.7680981
+                ]
+            },
+            "properties": {
+                "name": "Chivago Fried Chicken and Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6954372,
+                    10.7719635
+                ]
+            },
+            "properties": {
+                "name": "Tan Lap Restaurant Coffee and Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6838061,
+                    10.7669999
+                ]
+            },
+            "properties": {
+                "name": "Bacchus Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6962375,
+                    10.7797075
+                ]
+            },
+            "properties": {
+                "name": "Bia Tươi Tiệp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6961471,
+                    10.7730743
+                ]
+            },
+            "properties": {
+                "name": "East West Brewing Co."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.690324,
+                    10.781323
+                ]
+            },
+            "properties": {
+                "name": "quán food and beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6993808,
+                    10.7857578
+                ]
+            },
+            "properties": {
+                "name": "Hoa Viên Craft Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6963569,
+                    10.7797161
+                ]
+            },
+            "properties": {
+                "name": "Gammer Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6830859,
+                    10.7604611
+                ]
+            },
+            "properties": {
+                "name": "LiD Beer Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6784155,
+                    10.7791295
+                ]
+            },
+            "properties": {
+                "name": "Lananh Beer Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.693288,
+                    10.767211
+                ]
+            },
+            "properties": {
+                "name": "Gammer Beerhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6969444,
+                    10.7736111
+                ]
+            },
+            "properties": {
+                "name": "Urban Basement - Craft Beer & Kitchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6833067,
+                    10.7566991
+                ]
+            },
+            "properties": {
+                "name": "EL’ZEE FOOD & BEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6928979,
+                    10.7720001
+                ]
+            },
+            "properties": {
+                "name": "Sky Garden BBQ & CRAFT BEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7029294,
+                    10.7798149
+                ]
+            },
+            "properties": {
+                "name": "Heart of Darkness Craft Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6854891,
+                    10.7763434
+                ]
+            },
+            "properties": {
+                "name": "BiaCraft Artisan Ales | Q.3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6786052,
+                    10.7834565
+                ]
+            },
+            "properties": {
+                "name": "Ốc Chill + Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6899042,
+                    10.7800908
+                ]
+            },
+            "properties": {
+                "name": "Brothers Beer Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.695393,
+                    10.765153
+                ]
+            },
+            "properties": {
+                "name": "CONO BEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6871453,
+                    10.7661721
+                ]
+            },
+            "properties": {
+                "name": "BALY Beer House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7038615,
+                    10.7733531
+                ]
+            },
+            "properties": {
+                "name": "Social Local, Beer N' Bite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6944333,
+                    10.783297
+                ]
+            },
+            "properties": {
+                "name": "Hứng - Food&Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6979522,
+                    10.7618856
+                ]
+            },
+            "properties": {
+                "name": "Quán Tới Bến"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6911888,
+                    10.7811317
+                ]
+            },
+            "properties": {
+                "name": "Vương Quốc Bia Bỉ Beer & Barrel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7008333,
+                    10.7751822
+                ]
+            },
+            "properties": {
+                "name": "Pasteur Street Brewing Co."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.695393,
+                    10.765153
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Bia Cono"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.684687,
+                    10.777091
+                ]
+            },
+            "properties": {
+                "name": "La Sangria Beer & Wine Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6970145,
+                    10.7879391
+                ]
+            },
+            "properties": {
+                "name": "3Tbeer - Cold beer & Hot food"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6899381,
+                    10.7712166
+                ]
+            },
+            "properties": {
+                "name": "Beer & Coffee 39 Bui Thi Xuan St, Ho Chi Minh City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.683779,
+                    10.767032
+                ]
+            },
+            "properties": {
+                "name": "Nhà hàng BACCHUS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7104734,
+                    10.7894456
+                ]
+            },
+            "properties": {
+                "name": "1St Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7037517,
+                    10.775267
+                ]
+            },
+            "properties": {
+                "name": "Bier Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6875509,
+                    10.7895915
+                ]
+            },
+            "properties": {
+                "name": "BORA BORA Food & Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6783677,
+                    10.7734214
+                ]
+            },
+            "properties": {
+                "name": "Beer 4000 - Quán 171"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.699035,
+                    10.769047
+                ]
+            },
+            "properties": {
+                "name": "Anhouse cafe and craft beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6884393,
+                    10.7713329
+                ]
+            },
+            "properties": {
+                "name": "TMT Coffee & Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6964974,
+                    10.7622329
+                ]
+            },
+            "properties": {
+                "name": "Bia Sệt 197"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.7030124,
+                    10.7694515
+                ]
+            },
+            "properties": {
+                "name": "Rogue Saigon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6971066,
+                    10.774231
+                ]
+            },
+            "properties": {
+                "name": "Red Door Beer Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    106.6911949,
+                    10.7551432
+                ]
+            },
+            "properties": {
+                "name": "Sky's coffee & beer"
+            }
+        }
+    ]
+}
